@@ -16,7 +16,7 @@
   <br><br>
   💻 I love writing code and learn anythings about it
   <br><br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m senior Blockchain and AI developer.
   <br><br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">superman19930923@gmail.com</a>
 
